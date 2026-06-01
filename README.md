@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Meu nome é João Miguel. Sou estudante de Sistemas de Informação e Técnico em Informática pelo IFRO.
+Meu nome é João Miguel, sou estudante de Sistemas de Informação e Técnico em Informática pelo IFRO.
 
 Tenho interesse em desenvolvimento de software, especialmente na construção de aplicações web utilizando C#, ASP.NET Core e SQL Server.
 
