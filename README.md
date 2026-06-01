@@ -1,5 +1,5 @@
 # João Miguel 😴
-**` Desenvolvedor Full Stack `**
+**` Estudante de Tecnologia da Informação `**
 
 Me chamo João Miguel Galvão Ferraz nasci no estado de Rondônia e atualmente tenho 19 anos.
 Sou técnico em informática formado no IFRO no ano de 2024 e hoje em dia estou cursando
