@@ -46,13 +46,10 @@ Utilizo este espaço para compartilhar projetos, registrar minha evolução como
 
 ---
 
-## 📊 Estatísticas
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jotaemexxx&show_icons=true&theme=github_dark&hide_border=true"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaemexxx&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+## 📈 Atividade
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jotaemexxx&theme=tokyo-night)
 
 ---
 
