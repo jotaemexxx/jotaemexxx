@@ -20,7 +20,7 @@
 
 Meu nome é João Miguel, sou estudante de Sistemas de Informação e Técnico em Informática pelo IFRO.
 
-Tenho interesse em desenvolvimento de software, especialmente na construção de aplicações web utilizando C#, ASP.NET Core e SQL Server.
+Tenho interesse em desenvolvimento de software, especialmente na construção de aplicações web utilizando Java e SpringBoot.
 
 Atualmente estou aprofundando meus conhecimentos em Estruturas de Dados, APIs REST, Docker e Desenvolvimento Full Stack.
 
@@ -39,7 +39,7 @@ Utilizo este espaço para compartilhar projetos, registrar minha evolução como
 ## Atualmente estudando
 
 - Estruturas de Dados
-- ASP.NET Core Web API
+- Java/SpringBoot
 - Docker
 - Desenvolvimento Full Stack
 - Boas práticas de desenvolvimento
